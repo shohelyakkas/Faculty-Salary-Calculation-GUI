@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive - Centennial College\Semester 2\Programming 2\Assignment_9_Faculty GUI (Week 11)\Faculty GUI\Faculty GUI\bin\Debug\Faculty GUI.exe.config
+C:\Users\user\OneDrive - Centennial College\Semester 2\Programming 2\Assignment_9_Faculty GUI (Week 11)\Faculty GUI\Faculty GUI\bin\Debug\Faculty GUI.exe
+C:\Users\user\OneDrive - Centennial College\Semester 2\Programming 2\Assignment_9_Faculty GUI (Week 11)\Faculty GUI\Faculty GUI\bin\Debug\Faculty GUI.pdb
+C:\Users\user\OneDrive - Centennial College\Semester 2\Programming 2\Assignment_9_Faculty GUI (Week 11)\Faculty GUI\Faculty GUI\obj\Debug\Faculty GUI.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Centennial College\Semester 2\Programming 2\Assignment_9_Faculty GUI (Week 11)\Faculty GUI\Faculty GUI\obj\Debug\Faculty_GUI.Form1.resources
+C:\Users\user\OneDrive - Centennial College\Semester 2\Programming 2\Assignment_9_Faculty GUI (Week 11)\Faculty GUI\Faculty GUI\obj\Debug\Faculty_GUI.Properties.Resources.resources
+C:\Users\user\OneDrive - Centennial College\Semester 2\Programming 2\Assignment_9_Faculty GUI (Week 11)\Faculty GUI\Faculty GUI\obj\Debug\Faculty GUI.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - Centennial College\Semester 2\Programming 2\Assignment_9_Faculty GUI (Week 11)\Faculty GUI\Faculty GUI\obj\Debug\Faculty GUI.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Centennial College\Semester 2\Programming 2\Assignment_9_Faculty GUI (Week 11)\Faculty GUI\Faculty GUI\obj\Debug\Faculty GUI.exe
+C:\Users\user\OneDrive - Centennial College\Semester 2\Programming 2\Assignment_9_Faculty GUI (Week 11)\Faculty GUI\Faculty GUI\obj\Debug\Faculty GUI.pdb
